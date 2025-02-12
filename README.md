@@ -1,2 +1,2 @@
 # Rd-info-technology
-Creating a Calculator App
+Creating a Java Calculator App
